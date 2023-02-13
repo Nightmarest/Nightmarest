@@ -29,8 +29,9 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<h3 align="center">👨🏻‍💻 My stats: <br>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)</h3>
+<h3>👨🏻‍💻 My stats:</h3>
 
-
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nightmarest&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nightmarest&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
