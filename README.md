@@ -7,7 +7,7 @@
 <h2 align = "center"> 🐍 Python Junior Dev. |  🔨 System Administrator | 🛠️ DevOps </h2>
 
 
-<h1 align = "center"> 🤔 About me: </h1>
+<h3 align = "center"> 🤔 About me: </h3>
   
 - 🌱 I’m currently learning **Python, Swift**
   
