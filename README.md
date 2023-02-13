@@ -7,7 +7,7 @@
 <h2 align = "center"> 🐍 Python Junior Dev. |  🔨 System Administrator | 🛠️ DevOps </h2>
 
 
-<h1> 🤔 About me: </h1>
+<h3> 🤔 About me: </h3>
   
 - 🌱 I’m currently learning **Python, Swift**
   
@@ -20,7 +20,7 @@
 - 📫 How to reach me **arthur@afedko.ru**
   
 
-  
+<br> 
 <h3>🛠️ Languages and Tools:</h3>
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,7 +29,7 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+<br>
 <h3>👨🏻‍💻 My stats:</h3>
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nightmarest&theme=dark&background=000000)](https://git.io/streak-stats)<br>
