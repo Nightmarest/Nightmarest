@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Arthur!</h1>
-<h2 align = "center"> 🐍 Python Junior Dev.  |   🔨 System Administrator  |  🛠️ DevOps </h2>
+<h2 align = "center">🐍 Python Junior Dev | 🔨 System Administrator | 🛠️ DevOps</h2>
 
 
 <h3> 🤔 About me: </h3>
