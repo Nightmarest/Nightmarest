@@ -9,7 +9,7 @@
 
 <h3> 🤔 About me: </h3>
   
-- 🌱 I’m currently learning **Python, Swift**
+- 🌱 I’m currently learning **Python, Swift, GO**
   
 - ☕️ I like a cappuccino that stays foamy and has sugar in it
     
