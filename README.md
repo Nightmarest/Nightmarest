@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋<br> I'm Arthur!</h1>
-<h2 align = "center">🐍 Python Junior Dev | 🔨 System Administrator | 🛠️ DevOps</h2>
+<h2 align = "center">🐍 Python Middle Dev | 🔨 System Administrator | 🛠️ DevOps</h2>
 
 
 <h3> 🤔 About me: </h3>
@@ -12,12 +12,10 @@
 - 🌱 I’m currently learning **Python, Swift**
   
 - ☕️ I like a cappuccino that stays foamy and has sugar in it
-  
-- ❤️ The avatar above was drawn for me by my wife - [pathetic](https://github.com/pathetik "pathetic")
-  
+    
 - 🌷 I love orchids
 
-- 📫 How to reach me **arthur@afedko.ru**
+- 📫 How to reach me **git@afedko.ru**
   
 
 <br> 
