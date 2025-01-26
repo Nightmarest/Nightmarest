@@ -14,8 +14,6 @@
 - ☕️ I like a cappuccino that stays foamy and has sugar in it
     
 - 🌷 I love orchids
-
-- 📫 How to reach me **git@afedko.ru**
   
 
 <br> 
